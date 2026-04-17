@@ -40,7 +40,7 @@ python main.py
 
 Ao executar, o programa:
 
-- Calcula as raízes de um polinômio de teste (validação)
+- Calcula as raízes de um polinômio de teste validação
 - Calcula as raízes do polinômio da APC2
 - Gera o fractal de convergência do método de Bairstow
 
@@ -66,8 +66,6 @@ P(λ) = λ⁴ + 4λ³ + 11λ² + 12λ + 12
 - O método foi implementado sem uso de bibliotecas prontas para cálculo de raízes
 - O comportamento do método depende dos valores iniciais escolhidos
 
----
 
-## Autor
 
-Trabalho desenvolvido para a disciplina de Cálculo Numérico Aplicado
+
